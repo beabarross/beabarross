@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beabarross
-- 👀 I’m interested in UX & UI Design and front-end development.
+- 👀 I’m interested in UX/UI Design and front-end development.
 - 🌱 I’m currently learning HTML5, CSS and JAVASCRIPT.
 - 📫 How to reach me: https://www.linkedin.com/in/beatrizbarross/
 - 😄 Pronouns: she/her
