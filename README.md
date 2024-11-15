@@ -1,4 +1,4 @@
-<h1> - 👋 Hi, I’m Beatriz Barros </h1>
+<h1> 👋 Hi, I’m Beatriz Barros </h1>
 👀 I’m interested in UX/UI Design and front-end development. <br>
 🌱 I’m currently learning Front-End Web Development. <br>
 📫 How to reach me: https://www.linkedin.com/in/beatrizbarross/ <br>
