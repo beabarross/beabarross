@@ -7,18 +7,18 @@
 ⚡ Fun fact: I already studied veterinary medicine, but I found myself studying UX design and software engineering.📚 Enjoy reading, horseback riding 🐎, and working out 🏋️‍♀️
 <hr>
 <h3> 🚀 Skills & Tools </h3>
-Front-End: HTML5, CSS3, JavaScript
-Design: Figma, Notion
-Analysis: Exploring analytical tools
+Front-End: HTML5, CSS3, JavaScript <br>
+Design: Figma, Notion <br>
+Analysis: Exploring analytical tools <br>
 Languages: Portuguese 🇧🇷, English 🇺🇸 (advanced), Spanish 🇪🇸, German 🇩🇪
 
 <h3> 🌟 Goals </h3>
-Build a solid career in software development
-Transition from sales to tech
-Become a reference in tech and sports
-Gain financial freedom and inspire others
+Build a solid career in software development <br>
+Transition from sales to tech <br>
+Become a reference in tech and sports <br>
+Gain financial freedom and inspire others <br>
 
 <h3> 📫 Contact Me </h3>
-💼 LinkedIn: (https://www.linkedin.com/in/beatrizbarross/)
-📩 Email: work.beatrizbarros@gmail.com
+💼 LinkedIn: (https://www.linkedin.com/in/beatrizbarross/) <br>
+📩 Email: work.beatrizbarros@gmail.com <br>
 ⚡ Fun Fact: I find creativity in the little things!
