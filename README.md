@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beabarross
+<h1> - 👋 Hi, I’m @beabarross </h1>
 - 👀 I’m interested in UX/UI Design and front-end development.
 - 🌱 I’m currently learning HTML5, CSS and JAVASCRIPT.
 - 📫 How to reach me: https://www.linkedin.com/in/beatrizbarross/
