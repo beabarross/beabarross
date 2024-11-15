@@ -7,7 +7,7 @@
 <hr>
 <h3> 🚀 Skills & Tools </h3>
 Front-End: HTML5, CSS3, JavaScript <br>
-Design: Figma, Notion <br>
+Design: Figma, Notion, Photoshop <br>
 Analysis: Exploring analytical tools <br>
 Languages: Portuguese 🇧🇷, English 🇺🇸 (advanced), Spanish 🇪🇸, German 🇩🇪
 
