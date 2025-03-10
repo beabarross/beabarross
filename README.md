@@ -1,12 +1,12 @@
 <h1> 👋 Hi, I’m Beatriz Barros </h1>
 💡 Passionate about UX/UI Design and problem-solving. <br>
-🌱 I’m currently learning Front-End Development (HTML, CSS, JavaScript) <br>
+🌱 I’m currently learning Front-End Development (HTML, CSS, JavaScript & React ) <br>
 👩‍💻 Software Engineering student at UNIASSELVI university. <br>
 📚 Enjoy reading, horseback riding 🐎, and working out 🏋️‍♀️ <br>
 ⚡ Fun fact: I already studied veterinary medicine, but I found myself studying UX design and software engineering.
 <hr>
 <h3> 🚀 Skills & Tools </h3>
-Front-End: HTML5, CSS3, JavaScript <br>
+Front-End: HTML5, CSS3, JavaScript, React <br>
 Design: Figma, Notion, Photoshop <br>
 Analysis: Exploring analytical tools <br>
 Languages: Portuguese 🇧🇷, English 🇺🇸 (advanced), Spanish 🇪🇸, German 🇩🇪
